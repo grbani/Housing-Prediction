@@ -56,6 +56,7 @@ To visualize the model's performance, here is a scatter plot comparing the actua
 
 ---
 
-## ✍️ Author
 
-* **[Your Name]**
+
+* **MD GOLAM RABBANI**
+* **Roll: 2203059**
